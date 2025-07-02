@@ -25,8 +25,8 @@ A simulated enterprise Layer 2 network built in Cisco Packet Tracer, applying co
 
 ## 🖥️ Topology Overview
 
-![Lab Topology (Logical)](ccna-layer2-switching-lab/blob/main/L2%20Lab.png)
-![Lab Topology (Physical)](ccna-layer2-switching-lab/blob/main/L2%20Lab%20Physical.png)
+![Lab Topology (Logical)](/L2%20Lab.png)
+![Lab Topology (Physical)](/L2%20Lab%20Physical.png)
 
 ## 📌 Notes
 
