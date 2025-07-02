@@ -32,7 +32,6 @@ A simulated enterprise Layer 2 network built in Cisco Packet Tracer, applying co
 ## 📁 Files Included
 
 - `layer2-lab.pkt`: Cisco Packet Tracer project file
-- `configs/`: Folder containing CLI configs for core, distribution, and access switches
 - `README.md`: Documentation
 
 ## 📌 Notes
@@ -48,10 +47,6 @@ A simulated enterprise Layer 2 network built in Cisco Packet Tracer, applying co
 - Centralized VLAN control
 - Layer 2 security and access
 - Remote management and SSH hardening
-
-## 📷 Screenshots
-
-
 
 ## 🧑‍💻 Author
 
