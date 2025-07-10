@@ -40,7 +40,7 @@ A simulated enterprise Layer 2 network built in Cisco Packet Tracer, applying co
 - Redundancy & convergence planning
 - Centralized VLAN control
 - Layer 2 security and access
-- Remote management and SSH hardening
+- Remote management via SSH
 
 ## 🧑‍💻 Author
 
