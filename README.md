@@ -14,7 +14,7 @@ A simulated enterprise Layer 2 network built in Cisco Packet Tracer, applying co
 
 ## 🧰 Technologies Used
 
-- **VLANs**: 10 (HR), 20 (IT), 30 (Sales), 99 (Management), 100 (Servers)
+- **VLANs**: 10 (HR), 20 (IT), 30 (Sales), 50 (VOIP), 99 (Management), 100 (Servers)
 - **VTP**: Server/Client mode for centralized VLAN management
 - **STP**: Loop prevention and redundancy across Distribution switches
 - **LACP (EtherChannel)**: Port-channeling across distribution and core
@@ -32,7 +32,7 @@ A simulated enterprise Layer 2 network built in Cisco Packet Tracer, applying co
 
 - Management VLAN (99) used for switch IP assignment and SSH access
 - Laptops and PCs are assigned to VLANs according to department
-- IP Phones use voice VLANs alongside data VLANs
+- IP Phones use voice VLANs alongside data VLANs (Vlan 50)
 
 ## 🚀 Skills Demonstrated
 
