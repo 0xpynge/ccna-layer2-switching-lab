@@ -44,6 +44,8 @@ A simulated enterprise Layer 2 network built in Cisco Packet Tracer, applying co
 
 ## 🧑‍💻 Author
 
-Rani Kamaleddine  
-LinkedIn: https://www.linkedin.com/in/rani-kamaleddine/  
-GitHub: https://github.com/r4n1-exe
+Rani Kamaleddine
+
+[GitHub Profile](https://github.com/r4n1-exe)
+
+[LinkedIn](https://www.linkedin.com/in/rani-kamaleddine)
