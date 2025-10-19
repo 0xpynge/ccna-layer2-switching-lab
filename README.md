@@ -1,4 +1,4 @@
-s# CCNA Layer 2 Switching Lab
+# CCNA Layer 2 Switching Lab
 
 A simulated enterprise Layer 2 network built in Cisco Packet Tracer, applying core concepts from **CCNA Chapter 2** and beyond.
 
